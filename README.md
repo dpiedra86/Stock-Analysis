@@ -22,7 +22,11 @@ A lot of research had to be done in order to complete this challenge.
 Once the array is declared, array outputs let us loop throught the array as different objects and store information foreach var in the index array depending on the opreations we assign to each output. 
 By adding +1 to the tickerindex at the end of the loop, the code moves fwd one value through the array. 
 
+Execution time was reduced.
 
+![2017](https://github.com/dpiedra86/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+![2018](https://github.com/dpiedra86/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
 # Pros and Cons
