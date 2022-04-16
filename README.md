@@ -33,9 +33,9 @@ Execution time was reduced.
 Refactoring the code helps us to make it more efficient and easier to read. The main objective is to use the processing power of the machines
 to make repetitive tasks. Then simplify this tasks by reducing the number of steps to get the same result. 
 
-Pros : Refactoring the code has its benefits. we will have a more concise set of isnturctions, this will traduce in a more efficient and easy to read code. 
+ > Pros : Refactoring the code has its benefits. we will have a more concise set of isnturctions, this will traduce in a more efficient and easy to read code. 
 
-Cons: Even when the code gets simplier, some insturctiones may imply knowledge of more advanced methods; this may complicate the undersatanding of each lien,  if the code is not clearly quoted for a not so experienced programmer. 
+ > Cons: Even when the code gets simplier, some insturctiones may imply knowledge of more advanced methods; this may complicate the undersatanding of each lien,  if the code is not clearly quoted for a not so experienced programmer. 
 
 
 
