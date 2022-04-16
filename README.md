@@ -4,8 +4,7 @@ Bootcamp 2nd challenge
  ## Overview 
 
 The purpose of this project was to refactor the code we previously did in Module 2. 
-Refactoring the code helps us to make it more efficient and easier to read.The main objective is to use the processing power of the machines
-to make repetitive tasks. Then simplify this tasks by reducing the number of steps to get the same result.
+Simplify tasks and processing time by reducing the number of steps to get the same result.
 A lot of research had to be done in order to complete this challenge. 
 
  # Results: 
@@ -29,11 +28,14 @@ Execution time was reduced.
 ![2018](https://github.com/dpiedra86/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
-# Pros and Cons
+# Summary
 
-Refactoring the code has its benefits. we will have a more concise set of isnturctions, this will traduce in a more efficient and easy to read code. 
+Refactoring the code helps us to make it more efficient and easier to read. The main objective is to use the processing power of the machines
+to make repetitive tasks. Then simplify this tasks by reducing the number of steps to get the same result. 
 
-Even when the code gets simplier, some insturctiones may imply knowledge of more advanced methods; this may complicate the undersatanding of each lien,  if the code is not clearly quoted for a not so experienced programmer. 
+Pros : Refactoring the code has its benefits. we will have a more concise set of isnturctions, this will traduce in a more efficient and easy to read code. 
+
+Cons: Even when the code gets simplier, some insturctiones may imply knowledge of more advanced methods; this may complicate the undersatanding of each lien,  if the code is not clearly quoted for a not so experienced programmer. 
 
 
 
